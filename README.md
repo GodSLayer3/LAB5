@@ -1,6 +1,6 @@
 # Lab5
 
-5taya laboratornaya rabota by Anya
+5 LAB by Hulko
 
 
 ## Keys and parameters
